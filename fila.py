@@ -1,5 +1,4 @@
 import numpy as np
-
 zclass FilaCircular:
 
     def __init__(self, capacidade):
