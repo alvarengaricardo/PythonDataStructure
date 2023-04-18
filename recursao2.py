@@ -1,5 +1,4 @@
 def soma2(n):
-
   if n == 0:
     return 0
 
